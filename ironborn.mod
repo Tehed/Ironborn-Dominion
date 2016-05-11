@@ -7,4 +7,4 @@ tags={
 }
 picture="ironborn_flag.jpg"
 remote_file_id="682032871"
-supported_version="1.0.0"
+supported_version="1.0.1"
