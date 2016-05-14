@@ -10,11 +10,11 @@ SpaceVikings = {
 		}
 		
 		corvette = {
-			Korpen Lugin Munin Geri Freki Ulfberht 
+			Korpen Lugin Munin Geri Freki  
 		}
 		
 		constructor = {
-			Dvergar
+			Dvergar Gleipnir Draupnir
 		}
 		
 		colonizer = {
@@ -22,11 +22,11 @@ SpaceVikings = {
 		}
 		
 		science = {	
-			Kraka Völuspa Völva Draupnir Gleipnir Odrerir Suttungmjadar
+			Kraka Völuspa Völva Odrörir Suttungmjadar
 		}
 		
 		destroyer = {
-			Gramr Mjöllnir Gungnir 
+			Gramr Mjöllnir Gungnir Ulfberht
 		}
 		
 		cruiser = {
@@ -82,18 +82,15 @@ SpaceVikings = {
 	army_names = {
 	
 		defense_army = {			
-			sequential_name = "%O% Planetary Guard"
+			sequential_name = "%O% Einherjar"
 		}
 
-		assault_army = {
-			random_names = {
-				Einherjar
-			}
-			sequential_name = "%O% Expeditionary Force"
+		assault_army = {			
+			sequential_name = "%O% Ulfhednar"
 		}
 		
 		slave_army = {
-			sequential_name = "%O% Indentured Rifles"
+			sequential_name = "%O% Thrall"
 		}
 		
 		clone_army = { 
@@ -108,22 +105,16 @@ SpaceVikings = {
 			sequential_name = "%O% Synthetic Rangers"
 		}
 		
-		psionic_army = { 
-			random_names = {
-				Valkyrjar 
-			}
-			sequential_name = "%O% Psi Commando"
+		psionic_army = { 			
+			sequential_name = "%O% Valkyrjar"
 		}
 		
 		xenomorph_army = {
 			sequential_name = "%O% Bio-Warfare Division"
 		}
 		
-		gene_warrior_army = {
-			random_names = {
-				Vaeringjar Ulfhednar 
-			}
-			sequential_name = "%O% Bio-Engineered Squadron"
+		gene_warrior_army = {			
+			sequential_name = "%O% Vaeringjar"
 		}
 	}
 
@@ -131,19 +122,19 @@ SpaceVikings = {
 
 		generic = {
 			names = {
-				 Svealand Fyrisvellir
+				 Svealand Fyrisvellir Hlesey
 			}
 		}
 		
 		pc_desert = {
 			names = {
-				Hel Muspellsheim
+				Helheimr Muspellsheim
 			}
 		}
 		
 		pc_arid = {
 			names = {
-				Jotunheimr
+				Jötunheimr
 			}
 		}
 		
@@ -167,7 +158,7 @@ SpaceVikings = {
 		
 		pc_ocean = {
 			names = {
-				Hlesey
+				Gandvik
 			}
 		}
 		
